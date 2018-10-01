@@ -1,2 +1,9 @@
-# Javascript-Fundamental can called Javascript-Pure or JavaScript Basic.
-$motivation = 'Never Tired for learn something new';
+# JS Fundamental :)
+            $motivation = 'Never Tired for learn something new';
+=============================================================================
+      _ ____    _____                _                            _        _ 
+     | / ___|  |  ___|   _ _ __   __| | __ _ _ __ ___   ___ _ __ | |_ __ _| |
+  _  | \___ \  | |_ | | | | '_ \ / _` |/ _` | '_ ` _ \ / _ \ '_ \| __/ _` | |
+ | |_| |___) | |  _|| |_| | | | | (_| | (_| | | | | | |  __/ | | | || (_| | |
+  \___/|____/  |_|   \__,_|_| |_|\__,_|\__,_|_| |_| |_|\___|_| |_|\__\__,_|_|
+                                                                             
